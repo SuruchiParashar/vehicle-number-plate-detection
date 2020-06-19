@@ -19,8 +19,7 @@ Since the vehicle plates are based on different country standards, they usually 
 Some plates have additional information written or attached to the plate, such as state identification, province initials, plate issue date label, vehicle type, country flag and more. For most applications this additional information is not required (and is usually not identified due to the complexity, variation, quality and resolution). Thus, we only intend to give the registered number as the output.
 
 <p align="center">
-  <img src="https://github.com/SuruchiParashar/vehicle-number-plate-detection/blob/master/ezgif.com-video-to-gif%20(1).gif
-" />
+  <img src="https://github.com/SuruchiParashar/vehicle-number-plate-detection/blob/master/ezgif.com-video-to-gif%20(1).gif" />
 </p>
 
 
